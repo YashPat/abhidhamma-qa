@@ -4,7 +4,7 @@
 
 ### 1. Phassa — Contact
 
-The meeting of a sense faculty, its object, and the consciousness that knows it. Contact is not physical touching but the mental "coming together" that makes experience possible at all. Everything else in the mind rests on it: without contact there is nothing to feel, perceive, or respond to.
+Mental touching of the object, which shows itself as the meeting of a sense faculty, its object, and the consciousness that knows it. Contact is not physical touching but the mental "coming together" that makes experience possible at all. Everything else in the mind rests on it: without contact there is nothing to feel, perceive, or respond to.
 
 ### 2. Vedanā — Feeling
 
@@ -16,7 +16,7 @@ Recognition — the mind marking an object and matching it against past experien
 
 ### 4. Cetanā — Intention
 
-The factor that organizes the mind toward its object and drives it to act. It coordinates the other factors much as a chief pupil rehearses his own lesson and gets the others to do theirs. It is present in all eighty-nine cittas. The Buddha identified cetanā with kamma, and in this system that identification is the volition of wholesome and unwholesome cittas, made in the javanas. In a resultant or a functional citta the same factor organizes the moment and accumulates nothing.
+The factor that organizes the mind toward its object and drives it to act. It coordinates the other factors much as a chief pupil rehearses his own lesson and gets the others to do theirs. It is present in all eighty-nine cittas. The Buddha identified cetanā with kamma, and in this system that identification is the volition of mundane wholesome and unwholesome cittas, made in the javanas. In a supramundane, resultant, or functional citta the same factor organizes the moment and accumulates nothing.
 
 ### 5. Ekaggatā — One-pointedness
 
@@ -46,7 +46,7 @@ The mind's decisiveness — committing to an object rather than wavering between
 
 ### 4. Viriya — Energy
 
-The mustering of effort and endurance in support of what the mind is doing. Not raw force but the willingness to keep going, like fresh troops reinforcing an army. It can serve wholesome or unwholesome aims, which is why it must be paired with right view.
+The mustering of effort and endurance in support of what the mind is doing. Not raw force but the willingness to keep going, like fresh troops reinforcing an army. It can serve wholesome or unwholesome aims.
 
 ### 5. Pīti — Rapture
 
@@ -64,11 +64,11 @@ Mental blindness — not seeing things as they actually are, and specifically no
 
 ### 2. Ahirika — Shamelessness
 
-The absence of any inner recoil from wrongdoing — no sense of personal dignity that would make a bad act feel beneath you. Like a village pig, it does not shrink from what is foul. It is present in every unwholesome state of mind.
+The absence of any inner recoil from wrongdoing — no sense of personal dignity that would make a bad act feel beneath you. It is present in every unwholesome state of mind.
 
 ### 3. Anottappa — Moral fearlessness
 
-Recklessness about the consequences of wrongdoing, whether blame from others or the ripening of kamma. It is the lack of caution that lets a person grasp a hot coal. Together with shamelessness, it is what makes unwholesome action possible.
+Recklessness about the consequences of wrongdoing, whether blame from others or the ripening of kamma. It is compared to a moth that is singed by fire. Together with shamelessness, it is what makes unwholesome action possible.
 
 ### 4. Uddhacca — Restlessness
 
@@ -80,7 +80,7 @@ Grasping, clinging, and wanting to hold on — from mild attraction to full-blow
 
 ### 6. Diṭṭhi — Wrong view
 
-Seeing things wrongly and being convinced of it. It is a justifying conviction, and the grasping it justifies is greed, which is in all eight greed-rooted cittas. It is worse than plain not-seeing because it interprets and is convinced. Wrong view is abandoned entirely at the first stage of awakening.
+Seeing things wrongly and being convinced of it. It is found in four of the eight greed-rooted cittas; greed itself is in all eight. It is worse than plain not-seeing because it interprets and is convinced. Wrong view is abandoned entirely at the first stage of awakening.
 
 ### 7. Māna — Conceit
 
@@ -88,7 +88,7 @@ The impulse to measure oneself against others — as better, equal, or worse. Al
 
 ### 8. Dosa — Hatred
 
-Aversion in all its forms: irritation, anger, resentment, cruelty, and fear. Its nature is to strike against or reject its object, like a struck viper. As one of the three roots, it is the source of all mental suffering that comes from pushing experience away.
+Aversion in all its forms: irritation, anger, resentment, and cruelty. Its nature is to strike against or reject its object, like a struck viper. As one of the three roots, it is the source of all mental suffering that comes from pushing experience away.
 
 ### 9. Issā — Envy
 
@@ -104,7 +104,7 @@ Repentance over a wrong that was done or a good that was left undone. As a menta
 
 ### 12. Thīna — Sloth, laziness
 
-The sluggishness and shrinking back of consciousness itself — a loss of drive and readiness. It is the mind become limp, like a bat hanging on a tree. Together with torpor it forms one of the five hindrances to concentration.
+The sluggishness and shrinking back of consciousness itself — a loss of drive and readiness. It is the mind shrinking like a cock's feather before fire. Together with torpor it forms one of the five hindrances to concentration.
 
 ### 13. Middha — Torpor, tiredness
 
@@ -112,7 +112,7 @@ The dullness and heaviness of the accompanying mental factors. Thīna afflicts t
 
 ### 14. Vicikicchā — Sceptical doubt
 
-Wavering that cannot commit — inability to decide about the Buddha, the teaching, the training, or the practice one has undertaken. It is not honest inquiry but paralysis, like a traveller stalled at a fork in the road. It blocks progress by preventing wholehearted engagement.
+Wavering that cannot commit — inability to decide about the Teacher, the teaching, the community, the training, the past, the future, both past and future, or dependent arising (Vibh 17). It is not honest inquiry but paralysis, like a traveller stalled at a fork in the road. It blocks progress by preventing wholehearted engagement.
 
 ## Beautiful Mental Factors
 
@@ -126,11 +126,11 @@ Remembering to stay present with what is happening, without drifting or floating
 
 ### 3. Hiri — Moral shame
 
-An inner recoil from doing wrong, grounded in self-respect and one's own sense of dignity. It says: this is beneath me. With ottappa, it is called a "guardian of the world," because these two restrain conduct when nothing external does.
+An inner recoil from doing wrong, grounded in self-respect and one's own sense of dignity. It says: this is beneath me. With ottappa, it is called a "guardian of the world."
 
 ### 4. Ottappa — Moral fear
 
-A healthy dread of the consequences of wrongdoing — the harm caused, the blame incurred, the kamma made. Where hiri looks inward to self-respect, ottappa looks outward to consequence. Both arise in every wholesome mind and give conscience its two faces.
+A healthy dread of the consequences of wrongdoing — the harm caused, the blame incurred, the kamma made. Where hiri looks inward to self-respect, ottappa looks outward to consequence. Both arise in every beautiful citta and give conscience its two faces.
 
 ### 5. Alobha — Non-greed
 
@@ -146,7 +146,7 @@ Balance — literally "there in the middle" — holding the mind and its factors
 
 ### 8. Kāyapassaddhi — Tranquillity (of mental factors)
 
-The quieting of the mental factors, the stilling of their disturbance and heat. "Kāya" here means the body of mental factors, not the physical body. It is the calm that opposes restlessness and remorse.
+The quieting of the mental factors, the stilling of their disturbance and heat. "Kāya" here means the body of mental factors, not the physical body. It is the calm that opposes restlessness.
 
 ### 9. Cittapassaddhi — Tranquillity (of consciousness)
 
@@ -202,7 +202,7 @@ Abstention from killing, stealing, and sexual misconduct. Like right speech, it 
 
 ### 22. Sammā ājīva — Right livelihood
 
-Abstention from earning a living by dealing in poisons, intoxicants, weapons, slaves, or animals for slaughter. That is the list in the Abhidhamma manuals. The discourse they narrow names weapons, living beings, meat, intoxicants, and poison. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
+Abstention from earning a living by dealing in poisons, intoxicants, weapons, slaves, or animals for slaughter. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
 
 ### 23. Karuṇā — Compassion
 
@@ -210,8 +210,8 @@ The mind's trembling response to another's suffering and the wish for it to end.
 
 ### 24. Muditā — Sympathetic joy
 
-Gladness at another's happiness, success, and good fortune. It directly opposes envy, which cannot bear the same news. Harder to cultivate than compassion, it is the antidote to the mind's habit of comparison.
+Gladness at another's happiness, success, and good fortune. It directly opposes envy, which cannot bear the same news.
 
 ### 25. Paññindriya — Wisdom (faculty)
 
-Understanding things as they actually are — impermanent, unsatisfactory, and not-self. Called a faculty because it takes the lead in seeing, as a lamp dispels darkness in a room. This is the factor that uproots delusion, and with it the whole structure of suffering.
+Understanding things as they actually are — impermanent, unsatisfactory, and not-self. Called a faculty because it takes the lead in seeing, as a lamp dispels darkness in a room. It is the factor that overcomes ignorance.

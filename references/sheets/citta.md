@@ -6,13 +6,13 @@ A citta is consciousness itself: the bare knowing of an object. It does nothing 
 
 There are eighty-nine of them, and they are not eighty-nine separate things to memorize. They are the complete enumeration of every combination that four variables can legally produce. Learn the variables and the list generates itself.
 
-**Bhūmi — plane.** The level of existence a citta belongs to: the sense sphere (kāmāvacara), the fine-material sphere of the jhānas (rūpāvacara), the immaterial sphere (arūpāvacara), and the supramundane (lokuttara). A citta is classed by the plane it operates in, not necessarily the plane one is reborn in.
+**Bhūmi — plane.** The sphere a citta belongs to: the sense sphere (kāmāvacara), the fine-material sphere of the jhānas (rūpāvacara), the immaterial sphere (arūpāvacara), and the supramundane (lokuttara). The first three are named for the plane where such cittas mostly arise, but they also occur in other planes.
 
 **Jāti — nature.** Whether a citta is unwholesome (akusala), wholesome (kusala), resultant (vipāka), or functional (kiriya). The first two make kamma. The last two do not: vipāka is the ripened fruit of past kamma, passively received, and kiriya is action that performs its function without leaving a trace. This distinction is the one most often missed, and half the list depends on it.
 
 **Sampayutta — association.** Which roots accompany the citta (greed, hatred, delusion; or non-greed, non-hatred, wisdom), which feeling it carries, and whether wrong view or knowledge is present.
 
-**Saṅkhārika — prompting.** Whether the citta arises spontaneously (asaṅkhārika) or must be induced, by oneself or another (sasaṅkhārika). The unprompted is the stronger of the two.
+**Saṅkhārika — prompting.** Whether the citta arises spontaneously (asaṅkhārika) or must be induced, by oneself or another (sasaṅkhārika).
 
 ## The Count
 
@@ -32,7 +32,7 @@ Twelve cittas rooted in greed, hatred, or delusion. Every one of them is accompa
 
 ### 1. Lobhamūla citta — Greed-rooted
 
-Consciousness that grasps at its object, whether as mild attraction or open craving. Eight varieties arise from three binary choices: the feeling is joyful or neutral, wrong view is present or absent, and the arising is unprompted or prompted. Greed, the grasping, is in all eight. Wrong view is in four of them, and it is a justifying conviction: the citta settles on a view that makes the grasping right. The other four are greed without that justification.
+Consciousness that grasps at its object, whether as mild attraction or open craving. Eight varieties arise from three binary choices: the feeling is joyful or neutral, wrong view is present or absent, and the arising is unprompted or prompted. Greed, the grasping, is in all eight. Wrong view is in four of them.
 
 | Feeling | View | Prompting |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Consciousness that grasps at its object, whether as mild attraction or open crav
 
 ### 2. Dosamūla citta — Hatred-rooted
 
-Consciousness that strikes against its object and wants it gone, covering everything from irritation to rage, and also grief and fear. Only two varieties exist, because the variables collapse: hatred is always accompanied by displeasure (domanassa) and always by aversion (paṭigha), so only prompting varies. There is no such thing as a cheerful or neutral moment of hatred.
+Consciousness that strikes against its object and wants it gone, covering everything from irritation to rage, and also grief. Aversion (paṭigha) is another name for this hatred. Only two varieties exist, because the variables collapse: hatred is always accompanied by displeasure (domanassa), so only prompting varies. There is no such thing as a cheerful or neutral moment of hatred.
 
 | Feeling | Association | Prompting |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ The bare registering of an undesirable object, ripened from past unwholesome kam
 
 ### 2. Ahetuka kusala-vipāka citta — Rootless wholesome-resultant
 
-The same machinery on the desirable side, ripened from past wholesome kamma. Eight cittas rather than seven, and the extra one is worth pausing on: investigating consciousness comes in two varieties here, neutral for a merely desirable object and joyful for an intensely desirable one. There is no corresponding split on the unwholesome side, which is why the counts are 7 and 8.
+The same machinery on the desirable side, ripened from past wholesome kamma. Eight cittas rather than seven, and the extra one is worth pausing on: investigating consciousness comes in two varieties here, neutral for a desirable object and joyful for an extremely desirable one. There is no corresponding split on the unwholesome side, which is why the counts are 7 and 8.
 
 | Citta | Feeling |
 | --- | --- |
@@ -93,7 +93,7 @@ The same machinery on the desirable side, ripened from past wholesome kamma. Eig
 
 ### 3. Ahetuka kiriya citta — Rootless functional
 
-Three cittas that do a job and leave no kammic trace. Two are the adverting cittas that open a cognitive process by turning the mind toward an object — one at the five physical sense doors, one at the mind door. The third is the smile-producing citta, which arises only in arahants and Buddhas, and exists in the system precisely because an enlightened being can smile without that smile being kamma.
+Three cittas that do a job and leave no kammic trace. Two are the adverting cittas that open a cognitive process by turning the mind toward an object — one at the five physical sense doors, one at the mind door. The third is the smile-producing citta, which arises only in arahants (who may also smile with a beautiful functional citta).
 
 | Citta | Feeling |
 | --- | --- |
@@ -103,9 +103,9 @@ Three cittas that do a job and leave no kammic trace. Two are the adverting citt
 
 ## Kāmāvacara Sobhana Citta — Beautiful Sense-Sphere Consciousness
 
-Twenty-four cittas, all accompanied by non-greed and non-hatred and by the nineteen universal beautiful cetasikas. The three abstinences and the two illimitables are occasional adjuncts, and they do not generate the eight. Wisdom is the knowledge axis of the split. The twenty-four come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
+Twenty-four cittas, all accompanied by non-greed and non-hatred and by the nineteen universal beautiful cetasikas. The three abstinences and the two illimitables are occasional adjuncts of the wholesome set only; the functional set has the illimitables but not the abstinences, and the resultant set has neither. They do not generate the eight. Wisdom is the knowledge axis of the split. The twenty-four come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
 
-The three choices are: joyful or neutral feeling; accompanied by knowledge (ñāṇa) or not; unprompted or prompted. Knowledge here means the citta is informed by understanding of kamma or of the three characteristics, which is what makes a good act a wise one rather than merely a well-meant one.
+The three choices are: joyful or neutral feeling; accompanied by knowledge (ñāṇa) or not; unprompted or prompted. Knowledge here is wisdom, which understands things as they really are and is the opposite of delusion.
 
 | Feeling | Knowledge | Prompting |
 | --- | --- | --- |
@@ -120,15 +120,15 @@ The eight ordinary wholesome cittas: giving, restraint, service, meditation, any
 
 ### 2. Mahāvipāka citta — Great resultant
 
-The eight results of the above, identical in composition but passive. Their major role is structural rather than experiential: they perform rebirth-linking, life-continuum, and death for human beings and sense-sphere devas, which is to say they are what a life *is*, moment to moment, between active processes. They also serve as registration at the tail of a cognitive process.
+The eight results of the above, with the same feeling, knowledge, and prompting, but without the abstinences or illimitables. Their major role is structural rather than experiential: they perform rebirth-linking, life-continuum, and death for most human beings and for sense-sphere devas, which is to say they are what a life *is*, moment to moment, between active processes. They also serve as registration at the tail of a cognitive process.
 
 ### 3. Mahākiriya citta — Great functional
 
-The same eight as they occur in an arahant. Everything a worldling does with mahākusala citta an arahant does with mahākiriya citta — the generosity, the kindness, the meditation are all still there, but they plant nothing. This class is the clearest expression of what liberation changes: not the quality of action, but its kammic consequence.
+The same eight as they occur in an arahant. When an arahant does a good act, these arise in place of mahākusala — the generosity and the kindness are still there, but they plant nothing. This class is the clearest expression of what liberation changes: not the quality of action, but its kammic consequence.
 
 ## Rūpāvacara Citta — Fine-Material Consciousness
 
-Fifteen cittas belonging to the jhānas, produced by concentration on a material meditation object. Five jhāna levels, each occurring in three natures: wholesome for the worldling or trainee attaining it, resultant as rebirth in the corresponding Brahmā realm, functional for the arahant who attains it.
+Fifteen cittas belonging to the jhānas, produced by concentration on a meditation subject such as a kasiṇa or the breath. Five jhāna levels, each occurring in three natures: wholesome for the worldling or trainee attaining it, resultant as rebirth in the corresponding Brahmā realm, functional for the arahant who attains it.
 
 The five levels are defined by which jhāna factors remain, dropped one at a time as concentration refines. The sukha in this table is pleasant mental feeling, identical with somanassa. Bodily pleasure is a separate feeling, and it occurs in exactly one citta, the wholesome-resultant body-consciousness.
 
@@ -142,11 +142,11 @@ The five levels are defined by which jhāna factors remain, dropped one at a tim
 
 ### 1. Rūpāvacara kusala citta — Wholesome
 
-The five jhānas as attained by one still in training. Each is a kamma that, if maintained until death, produces rebirth in the corresponding fine-material realm.
+The five jhānas as attained by anyone short of arahantship. Each is a kamma that, if maintained until death, produces rebirth in the corresponding fine-material realm.
 
 ### 2. Rūpāvacara vipāka citta — Resultant
 
-The five as rebirth-linking, life-continuum, and death consciousness in the Brahmā realms. A being there has a jhāna citta as the passive substrate of its existence.
+The five as rebirth-linking, life-continuum, and death consciousness in the Brahmā realms. The exception is the mindless beings, who have material form only and no citta.
 
 ### 3. Rūpāvacara kiriya citta — Functional
 
@@ -154,7 +154,7 @@ The five as attained by an arahant, who can enter jhāna without generating any 
 
 ## Arūpāvacara Citta — Immaterial Consciousness
 
-Twelve cittas: four attainments beyond the jhānas, each in the same three natures. All twelve have the factor-structure of the fifth jhāna — equanimity and one-pointedness only — and differ solely in object. The progression is a stepwise removal of anything material for the mind to rest on.
+Twelve cittas: the four immaterial jhānas, each in the same three natures. All twelve have the factor-structure of the fifth jhāna — equanimity and one-pointedness only — and differ solely in object. The progression is a stepwise removal of anything material for the mind to rest on.
 
 | Attainment | Object |
 | --- | --- |
@@ -163,13 +163,13 @@ Twelve cittas: four attainments beyond the jhānas, each in the same three natur
 | Ākiñcaññāyatana — nothingness | The absence of that consciousness |
 | Nevasaññānāsaññāyatana — neither perception nor non-perception | The consciousness of nothingness |
 
-Each occurs as wholesome (attained in training), resultant (rebirth in the corresponding immaterial realm), and functional (attained by an arahant).
+Each occurs as wholesome (attained short of arahantship), resultant (rebirth in the corresponding immaterial realm), and functional (attained by an arahant).
 
 ## Lokuttara Citta — Supramundane Consciousness
 
 Eight cittas that take Nibbāna as their object. Four are path cittas, which do the work of eradicating fetters, and four are fruition cittas, which are their immediate result. These are the only cittas whose vipāka follows without any delay at all — path is succeeded by fruition in the very next mind-moment.
 
-The asymmetry between the two is the point. A path citta arises exactly once ever for each stage, does its work of eradication, and never recurs in any subsequent life. The corresponding fruition citta can be re-entered indefinitely as an abiding.
+The asymmetry between the two is the point. A path citta arises exactly once ever for each stage, does its work of eradication, and never recurs in any subsequent life. The corresponding fruition citta can be re-entered as an abiding, even for a whole day.
 
 | Path | Fetters eradicated |
 | --- | --- |
@@ -188,9 +188,7 @@ The resultant consciousness that immediately follows the path and shares its obj
 
 ## Cross-Cutting Distinctions
 
-**Vipāka and kiriya.** Both are kammically inert, but for opposite reasons. Vipāka is passive — it is kamma arriving, not being made. Kiriya is active but sterile — it is doing without accumulating, which is why the arahant's entire active life runs on it.
-
-**Prompted and unprompted.** An unprompted citta arises of its own momentum and is kammically stronger; a prompted one requires inducement and is weaker. This holds for wholesome and unwholesome alike, so a spontaneous kindness and a spontaneous cruelty are both weightier than their deliberated versions.
+**Vipāka and kiriya.** Both are kammically inert, but for opposite reasons. Vipāka is passive — it is kamma arriving, not being made. Kiriya is active but sterile — it is doing without accumulating, which is why an arahant's good deeds are kiriya.
 
 **Feeling across the classes.** Displeasure occurs in exactly two cittas, both hatred-rooted. Bodily pain and bodily pleasure occur in exactly one each, both rootless resultants. Of the eighty-one mundane cittas, thirty are joyful and forty-seven are equanimous. The other eight are supramundane, and each takes the joy or the equanimity of the jhāna it occurs in. On the 121 reckoning those eight are counted at all five jhānas, and joy is the larger class: sixty-two against fifty-five.
 

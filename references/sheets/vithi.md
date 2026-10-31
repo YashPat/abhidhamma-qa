@@ -4,13 +4,13 @@
 
 A vīthi is a cognitive process: the fixed sequence of cittas that runs whenever an object is actually cognized. The eighty-nine cittas are a taxonomy of what can occur; the vīthi is the account of *when* and *in what order* they occur. Nothing in the mind happens at random — each citta arises in a determined position, performs one function, and gives way to the next.
 
-Between processes the mind is not blank. It rests in bhavaṅga, the life-continuum, a passive resultant citta that repeats indefinitely and takes as its object whatever was cognized in the last moment of the previous life. A process is an interruption of bhavaṅga, and when the process ends the mind sinks back into it.
+Between processes the mind is not blank. It rests in bhavaṅga, the life-continuum, a passive resultant citta that repeats indefinitely and takes the same object as the rebirth-linking citta: the object presented to the dying mind at the end of the previous life. A process is an interruption of bhavaṅga, and when the process ends the mind sinks back into it.
 
-The reason this matters for practice is concentrated in one part of the sequence. Of the seventeen moments in a full sense-door process, the seven javanas are where kamma is made, for anyone short of arahantship. An arahant's javanas run in the same place and produce none. Everything before the javanas is passive reception, and everything after is aftermath.
+The reason this matters for practice is concentrated in one part of the sequence. Of the seventeen moments in a full sense-door process, the seven javanas are where kamma is made, for anyone short of arahantship. An arahant's javanas run in the same place and produce none. The moments before the javanas, resultant or functional, make no kamma.
 
 ## The Five-Door Process
 
-The full seventeen-moment sequence, which occurs when an object of the highest intensity strikes one of the five physical senses. A material object lasts exactly seventeen mind-moments, which is why the process has this length: it is the complete cognition of an object from arising to perishing.
+The full seventeen-moment sequence, which occurs when an object of the highest intensity strikes one of the five physical senses. A material object lasts seventeen mind-moments, which is why the process has this length, though the object enters the sense door only after one or more of those moments have passed.
 
 | # | Moment | Function |
 | --- | --- | --- |
@@ -47,23 +47,23 @@ Seeing, hearing, smelling, tasting, or touching: the bare sensory contact, and t
 
 ### 6. Sampaṭicchana — Receiving
 
-The object is taken up and passed inward from the sense consciousness. It is resultant, matching the sense consciousness in nature. It does no work of its own beyond the handover.
+The object is taken up and passed inward from the sense consciousness. It is resultant, matching the sense consciousness in nature.
 
 ### 7. Santīraṇa — Investigating
 
-The object is examined — its qualities considered, though not yet judged. Still resultant, still kammically inert. This is where the desirability of the object is registered, which is why it alone among the rootless resultants can carry joy — an intensely desirable object gets the joyful variety, a merely desirable one the neutral.
+The object is examined — its qualities considered, though not yet judged. Still resultant, still kammically inert. Whether the object is desirable is already fixed from sense consciousness on; investigating differs only in that, alone among the rootless resultants, it carries joy when the object is extremely desirable.
 
 ### 8. Votthapana — Determining
 
-The object is determined and the mind decides how to take it. This function is performed by the mind-door adverting citta, doing double duty here at the five doors. It is rootless and kammically inert: the last such moment before the javanas. Whether wholesome or unwholesome states arise is not decided here, but in the javanas that follow.
+The object is determined and the mind decides how to take it. This function is performed by the mind-door adverting citta, doing double duty here at the five doors. It is rootless and kammically inert: the last such moment before the javanas. Nārada's notes put the ethical turn in two places: right or wrong discrimination here sets the process toward good or evil (ch. III n.24), but good and evil are determined in the javanas (ch. IV).
 
 ### 9–15. Javana — Impulsion
 
-Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. A weak object can cut the run to six, and at death or fainting it runs to five. Greed-rooted or wholesome states first appear here, in the javanas. The determining moment before them is rootless and has no greed or generosity in it. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
+Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. Sense-sphere javanas run six or seven as a rule, and five at death or in a faint. Greed-rooted or wholesome states first appear here, in the javanas. The determining moment before them is rootless and has no greed or generosity in it. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
 
 ### 16–17. Tadārammaṇa — Registration
 
-Two moments in which the object is held on to briefly after the active phase ends. They are resultant, and they occur only for objects of the highest intensity and only in the sense sphere. After them the mind falls back into bhavaṅga.
+Two moments in which the object is held on to briefly after the active phase ends. They are resultant, and they occur only after sense-sphere javanas: for very great objects at the five doors, and clear ones at the mind door. After them the mind falls back into bhavaṅga.
 
 ## Shorter Processes
 
@@ -88,9 +88,9 @@ When the object is not a present physical impingement but a memory, concept, ide
 | 2 | Bhavaṅgupaccheda | Arrest |
 | 3 | Manodvārāvajjana | Mind-door adverting |
 | 4–10 | Javana ×7 | Impulsion |
-| 11–12 | Tadārammaṇa ×2 | Registration |
+| 11–12 | Tadārammaṇa ×2 | Registration (clear objects only) |
 
-Here the mind-door adverting citta performs adverting and determining in a single moment, and the javanas follow immediately. Every five-door process is normally followed by consequent mind-door processes, each a process of its own. The manual's account of them, from Ledi Sayadaw, runs: a conformational process; grasping the object as a whole; recognizing the colour; grasping the entity; recognizing the entity; grasping the name; recognizing the name. What we ordinarily call "seeing a cup" is that chain, not the eye-door seeing.
+Here the mind-door adverting citta only adverts; there is no determining moment, and the javanas follow immediately. A five-door process is followed by mind-door processes of its own, and Nārada says further such processes arise before the object is actually known. What we ordinarily call "seeing a cup" is that chain, not the eye-door seeing.
 
 ## The Absorption Process
 
@@ -104,7 +104,7 @@ When the mind door is to reach jhāna, path, or a psychic attainment, the proces
 | Gotrabhū | Change of lineage |
 | Appanā | Absorption |
 
-Gotrabhū is the pivot: it is the last citta of the sense sphere, standing at the threshold of a plane it does not itself belong to. The moment after it, the mind is somewhere it has never been. In a path process it also changes object, taking Nibbāna while still being a sense-sphere citta; in a jhāna process there is no such shift, since preparation onward all take the counterpart sign. In a path process, absorption is the path citta, and it is followed immediately by two or three moments of fruition.
+Gotrabhū is the pivot: it is the last citta of the sense sphere, standing at the threshold of a plane it does not itself belong to. At the first path it also changes object, taking Nibbāna while still being a sense-sphere citta; at the three later paths the same moment is called purification (vodāna) instead. In a jhāna process the object stays the same throughout. In a path process, absorption is the path citta, and it is followed immediately by two or three moments of fruition.
 
 ## The Death Process
 
@@ -112,7 +112,7 @@ Dying is a cognitive process like any other, distinguished by a weaker javana ru
 
 After those five, two registration cittas may follow, and life-continuum may follow the process cittas. Death consciousness arises at the end of that process, or at the dissolution of the life-continuum. One course has the five javanas and then death, with nothing between them.
 
-The object presented to those five javanas is one of three things, produced by the kamma that is about to ripen into the next life: the kamma itself, re-experienced as the deed; a kamma-nimitta, a sign or instrument associated with it; or a gati-nimitta, a vision of the destination.
+The object presented to those five javanas is one of three things, presented by the power of the kamma that is about to ripen into the next life: the kamma itself, re-experienced as the deed; a kamma-nimitta, a sign or instrument associated with it; or a gati-nimitta, a vision of the destination.
 
 ### 1. Cuti citta — Death consciousness
 
