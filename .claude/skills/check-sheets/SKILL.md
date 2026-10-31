@@ -32,7 +32,7 @@ Spawn a `general-purpose` agent per sheet with this brief, filled in:
 
 > Check `references/sheets/<sheet>` against Nārada's Manual ch. <N>, `https://budsas.org/ebud/abhisgho/abhis0<N>.htm`. Read the source only with `scripts/fetch-text.sh <url> '<pattern>' [chars]` (prints verbatim passages). Go claim by claim through every count, definition, list, rule ("only in", "never with"), and sequence. Skip pure teaching prose that makes no factual claim. For each claim that is **not** plainly confirmed, return one row: `line | claim (short) | verdict: WRONG or UNSOURCED | what Nārada actually says, verbatim, ≤40 words | URL + §`. Then give one line: how many claims were confirmed. Don't edit any file. Don't report style issues.
 
-Also give each checker the relevant rows of `references/sheet-accuracy-check.md` ("Prioritized fix list" and the long-tail table) as leads to test, not as findings to trust. That file was AI-written and some of its line numbers refer to an older repo.
+Also give each checker the rows for its sheet from the "Prioritized fix list" in `references/sheet-accuracy-check.md` as leads to test, not as findings to trust.
 
 ### 2. Re-check (blind, second pair of eyes)
 
@@ -55,6 +55,6 @@ Give one fresh agent `git diff references/sheets/` and ask it to confirm, using 
 
 ### 5. Record, commit, push
 
-- Replace `references/sheet-accuracy-check.md` with a short status note (keep it under ~40 lines): date, source used, what was fixed or cut per sheet, and a `## Prioritized fix list` section holding only what's still open. `AGENTS.md` points to that heading by name.
+- Replace `references/sheet-accuracy-check.md` with a short status note (keep it under ~40 lines): date, source used, what was fixed or cut per sheet, and a `## Prioritized fix list` section holding only what's still open. `AGENTS.md` points to that heading by name, so keep the heading exactly and don't edit `AGENTS.md`: it says nothing about the findings themselves.
 - Show the user a summary: per sheet, how many claims were confirmed, fixed, cut, or left open, and the net line change.
 - Commit with a message naming the sheets and the source, then `git push`. If the push fails, say so and stop.

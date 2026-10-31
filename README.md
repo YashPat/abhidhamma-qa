@@ -10,7 +10,7 @@ It is set up for Claude Code. `AGENTS.md` (also linked as `CLAUDE.md`) holds the
 - `.mcp.json`: the canon and dictionary servers (`tripitaka`, `fojin`).
 - `scripts/fetch-text.sh`: fetches a web page or PDF as plain text and prints only the passages that match a pattern, so quotes come from the real text and not a summary. Needs `curl`, `python3`, and `pdftotext` (poppler) for PDFs.
 - `references/sources.md`: where to read each commentary, manual, and dictionary, with working URL patterns.
-- `references/sheets/`: quick-reference sheets on citta, cetasika, sampayoga, and vithi. **These are AI-written and only a rough map.** `references/sheet-accuracy-check.md` lists known errors. Don't cite them as a source.
+- `references/sheets/`: quick-reference sheets on citta, cetasika, sampayoga, and vithi. **These are AI-written and only a rough map.** `references/sheet-accuracy-check.md` records the latest check and what's still open; `/check-sheets` re-runs it. Don't cite them as a source.
 
 ## Using it
 
