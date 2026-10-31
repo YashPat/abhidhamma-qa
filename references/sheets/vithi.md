@@ -55,11 +55,11 @@ The object is examined — its qualities considered, though not yet judged. Stil
 
 ### 8. Votthapana — Determining
 
-The object is determined and the mind decides how to take it. This function is performed by the mind-door adverting citta, doing double duty here at the five doors. It is the last inert moment, and it is the point at which the kammic character of what follows is settled — which makes wise attention here decisive.
+The object is determined and the mind decides how to take it. This function is performed by the mind-door adverting citta, doing double duty here at the five doors. It is rootless and kammically inert: the last such moment before the javanas. Whether wholesome or unwholesome states arise is not decided here, but in the javanas that follow.
 
 ### 9–15. Javana — Impulsion
 
-Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. A weak object can cut the run to six, and at death or fainting it runs to five. If the mind has determined the object with greed, greed-rooted cittas run; if with generosity, wholesome ones. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
+Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. A weak object can cut the run to six, and at death or fainting it runs to five. Greed-rooted or wholesome states first appear here, in the javanas. The determining moment before them is rootless and has no greed or generosity in it. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
 
 ### 16–17. Tadārammaṇa — Registration
 
