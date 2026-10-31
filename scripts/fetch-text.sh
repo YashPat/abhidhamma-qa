@@ -23,7 +23,13 @@ if [[ ! -s "$txt" ]]; then
   raw="$cache/$key.raw"
   curl -sSL --fail -A "Mozilla/5.0" -o "$raw" "$url"
   if head -c 5 "$raw" | grep -q '%PDF'; then
-    pdftotext -layout "$raw" - 2>/dev/null | tr -s ' ' > "$txt"
+    pdftotext -layout "$raw" - 2>/dev/null | tr -s ' ' > "$txt" || true
+    # A damaged PDF can yield no text; say so instead of reporting "no match".
+    if ! grep -q '[^[:space:]]' "$txt"; then
+      rm -f "$txt" "$raw"
+      echo "fetch-text: pdftotext extracted no text from $url" >&2
+      exit 1
+    fi
   else
     python3 -I -c '
 import sys, re, html
